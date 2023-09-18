@@ -40,7 +40,6 @@ Screenshot of the COVID deaths dashboard.
 
 Jupyter Notebook
 Movie Industry Project.ipynb
-Jupyter Notebook for the movie industry project.
 
 Usage
 Refer to the respective SQL scripts for data analysis, cleaning, and Tableau integration.
