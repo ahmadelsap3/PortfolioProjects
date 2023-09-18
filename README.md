@@ -1,5 +1,5 @@
 #Portfolio Project
-This project involves data analysis and SQL queries related to COVID-19 and the Nashville housing market. It includes data cleaning, visualization, and insights from various datasets.
+This project involves data analysis and SQL queries related to COVID-19, the Nashville housing market, and the Movie Industry dataset It includes data cleaning, visualization, and insights from various datasets.
 
 Files
 COVID Portfolio Project.sql
@@ -21,12 +21,12 @@ Nashville Housing Data for Data Cleaning.xlsx
 Excel file containing Nashville housing data for data cleaning.
 
 Tableau Portfolio Project SQL Queries.sql
-SQL queries used for the Tableau visualizations.
+SQL queries were used for the Tableau visualizations.
 
 Tableau Table 1.xlsx
 Excel file containing Tableau data.
 
-Tableau Table 2.xdsx
+Tableau Table 2.xlsx
 Excel file containing Tableau data.
 
 Tableau Table 3.xlsx
@@ -35,8 +35,12 @@ Excel file containing Tableau data.
 Tableau Table 4.xlsx
 Excel file containing Tableau data.
 
-Cavid Deaths Dashboard.png
+Covid Deaths Dashboard.png
 Screenshot of the COVID deaths dashboard.
+
+Jupyter Notebook
+Movie Industry Project.ipynb
+Jupyter Notebook for the movie industry project.
 
 Usage
 Refer to the respective SQL scripts for data analysis, cleaning, and Tableau integration.
